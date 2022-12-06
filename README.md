@@ -21,5 +21,6 @@ WHEN the game is over
 THEN I can save my initials and score
 ````
 ## Screenshot
+![coderquiz](https://user-images.githubusercontent.com/117637052/205941336-28aed0d6-4921-4ab8-aa89-10054b3f96fa.png)
 
 ## Launch here!
